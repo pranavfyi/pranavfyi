@@ -11,6 +11,8 @@
 
 I'm passionate about blending logic with creativity — whether it's optimizing academic plans, designing playful Python projects, or diving into the philosophical depths of tech. I believe in starting from zero and building with purpose.
 
+# [https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue]
+
 ---
 
 ## 🚀 On my radar
