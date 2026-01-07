@@ -1,6 +1,3 @@
-# Pranav
-My personal repository
-
 
 # 👋 Hey there, I'm Pranav!
 
