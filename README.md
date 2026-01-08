@@ -41,11 +41,12 @@ Aspiring Software Developer · Building strong fundamentals through practice
 ---
 
 ## 🎯 Currently Learning (2026)
-- Data Structures & Algorithms (C++ / Java)
+- C++ 
+- Data Structures & Algorithms 
 - Problem solving on LeetCode
 - Backend fundamentals (Node.js, Express)
 - Databases (MongoDB, SQL basics)
-- 
+  
 ---
 
 ## 🛠 Tools & Technologies
@@ -55,7 +56,6 @@ Aspiring Software Developer · Building strong fundamentals through practice
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend & Tech
