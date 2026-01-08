@@ -8,16 +8,21 @@ Aspiring Software Developer · Learning by building, not by flexing
 <br/>
 
 <a href="https://www.linkedin.com/in/your-linkedin/">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:your_email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://leetcode.com/your_username/">
-  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+
 <a href="https://www.kaggle.com/your_username">
-  <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=red" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
 </a>
 
 </div>
@@ -57,31 +62,44 @@ Aspiring Software Developer · Learning by building, not by flexing
 
 
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs (basics)
+### ⚙️ Backend & Tech
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
+</p>
 
-**Databases**
-- MongoDB
-- MySQL (basics)
 
-**Tools**
-- Git & GitHub
-- GitHub Codespaces
-- VS Code
-- Linux (command line basics)
+### 🗄 Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
 
 ---
 
 ## 📂 Projects
-- **DSA Practice Repository**  
-  Structured problem-solving with notes and revisions
 
-- **Mini Backend Utilities**  
-  Small experiments while learning APIs and databases
 
 *(More coming as skills compound)*
+
+---
+### 🌏 Learning Beyond Code
+<p>
+  <img src="https://img.shields.io/badge/Japanese-JLPT%20N5-DC143C?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+</p>
+
+🈴 Exploring the Japanese language and culture — 一歩一歩
 
 ---
 
