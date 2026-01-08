@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2933&height=180&section=header&text=Hey%20Everyone!&fontSize=42&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2933&height=180&section=header&text=Hey%20Everyone,%20I'm%20Pranav!&fontSize=42&fontColor=ffffff" />
 
 🎓 Integrated MTech student at **VIT Bhopal**, specializing in **Artificial Intelligence**  
 Aspiring Software Developer · Learning by building, not by flexing
@@ -43,11 +43,7 @@ Aspiring Software Developer · Learning by building, not by flexing
 - Problem solving on LeetCode
 - Backend fundamentals (Node.js, Express)
 - Databases (MongoDB, SQL basics)
-- **Japanese Language – JLPT N5 preparation**
-  - Hiragana & Katakana
-  - Basic grammar
-  - Core vocabulary
-
+- 
 ---
 
 ## 🛠 Tools & Technologies
@@ -60,8 +56,6 @@ Aspiring Software Developer · Learning by building, not by flexing
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-
-
 ### ⚙️ Backend & Tech
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -69,12 +63,15 @@ Aspiring Software Developer · Learning by building, not by flexing
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
 </p>
 
+---
 
 ### 🗄 Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+---
 
 ### 🛠 Tools
 <p>
@@ -85,21 +82,11 @@ Aspiring Software Developer · Learning by building, not by flexing
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-
 ---
 
 ## 📂 Projects
 
-
 *(More coming as skills compound)*
-
----
-### 🌏 Learning Beyond Code
-<p>
-  <img src="https://img.shields.io/badge/Japanese-JLPT%20N5-DC143C?style=for-the-badge&logo=googletranslate&logoColor=white"/>
-</p>
-
-🈴 Exploring the Japanese language and culture — 一歩一歩
 
 ---
 
