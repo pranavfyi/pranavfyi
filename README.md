@@ -93,7 +93,7 @@ Aspiring Software Developer · Learning by building, not by flexing
 
 </div>
 
----
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=pranavfyi)
 
 ## 📬 Reach Me
 - GitHub: https://github.com/pranavfyi  
