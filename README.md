@@ -93,11 +93,11 @@ Aspiring Software Developer · Learning by building, not by flexing
 
 </div>
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=pranavfyi)
+![Pranav's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=pranavfyi&hide=B&theme=default)
 
 ## 📬 Reach Me
 - GitHub: https://github.com/pranavfyi  
-- Email: your_email@gmail.com
+- Email: pranav49155@gmail.com
 
 ---
 
