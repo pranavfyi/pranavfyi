@@ -1,27 +1,108 @@
+<div align="center">
 
-# 👋 Hey there, I'm Pranav!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2933&height=180&section=header&text=Hey%20Everyone!&fontSize=42&fontColor=ffffff" />
 
 🎓 Integrated MTech student at **VIT Bhopal**, specializing in **Artificial Intelligence**  
-🤖 Currently building skills in **AI**, **Robotics**, and **Machine Learning**  
-🈴 Exploring the world of **Japanese language and culture** — 一歩一歩 (step by step)!
+Aspiring Software Developer · Learning by building, not by flexing
+
+<br/>
+
+<a href="https://www.linkedin.com/in/your-linkedin/">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your_email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/your_username/">
+  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.kaggle.com/your_username">
+  <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 💡 What drives me
+## 🧠 About Me
+- Focused on building strong **fundamentals**
+- Interested in **backend systems, problem solving, and AI foundations**
+- Believer in slow, consistent progress over fake productivity
 
-I'm passionate about blending logic with creativity — whether it's optimizing academic plans, designing playful Python projects, or diving into the philosophical depths of tech. I believe in starting from zero and building with purpose.
-
-
-
----
-
-## 🚀 On my radar
-
-- 📚 Mastering AI fundamentals and real-world applications  
-- 🤖 Experimenting with robotics and intelligent systems  
-- 🧠 Learning Japanese to expand my global perspective  
-- 🛠️ Creating tools that are both smart and fun  
+🈴 Exploring the Japanese language and culture — **一歩一歩**
 
 ---
 
-> “Every expert was once a beginner. I’m here to learn, build, and grow — one thoughtful step at a time.”
+## 🎯 Currently Learning (2026)
+- Data Structures & Algorithms (C++ / Java)
+- Problem solving on LeetCode
+- Backend fundamentals (Node.js, Express)
+- Databases (MongoDB, SQL basics)
+- **Japanese Language – JLPT N5 preparation**
+  - Hiragana & Katakana
+  - Basic grammar
+  - Core vocabulary
+
+---
+
+## 🛠 Tools & Technologies
+
+**Languages**
+- C++
+- Python
+- JavaScript
+- Java (DSA)
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs (basics)
+
+**Databases**
+- MongoDB
+- MySQL (basics)
+
+**Tools**
+- Git & GitHub
+- GitHub Codespaces
+- VS Code
+- Linux (command line basics)
+
+---
+
+## 📂 Projects
+- **DSA Practice Repository**  
+  Structured problem-solving with notes and revisions
+
+- **Mini Backend Utilities**  
+  Small experiments while learning APIs and databases
+
+*(More coming as skills compound)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pranavfyi&show_icons=true&hide_border=true&theme=github_dark" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavfyi&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+---
+
+## 📬 Reach Me
+- GitHub: https://github.com/pranavfyi  
+- Email: your_email@gmail.com
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2933,100:111827&height=120&section=footer" />
+
+</div>
