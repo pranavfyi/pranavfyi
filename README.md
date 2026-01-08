@@ -47,11 +47,14 @@ Aspiring Software Developer · Learning by building, not by flexing
 
 ## 🛠 Tools & Technologies
 
-**Languages**
-- C++
-- Python
-- JavaScript
-- Java (DSA)
+### 🧑‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
 
 **Backend**
 - Node.js
