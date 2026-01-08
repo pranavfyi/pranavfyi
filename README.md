@@ -9,19 +9,19 @@ Aspiring Software Developer · Building strong fundamentals through practice
 <br/>
 
 <a href="https://github.com/pranavfyi">
-  <img src="https://img.shields.io/badge/GitHub-pranavfyi-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pranav-pimpalkar-6b3450373">
-  <img src="https://img.shields.io/badge/LinkedIn-Pranav_Pimpalkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/pranav4915">
-  <img src="https://img.shields.io/badge/LeetCode-pranav4915-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://codeforces.com/profile/Pranavfyi">
-  <img src="https://img.shields.io/badge/Codeforces-Pranavfyi-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 
