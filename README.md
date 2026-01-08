@@ -17,7 +17,7 @@ Aspiring Software Developer · Learning by building, not by flexing
   <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.kaggle.com/your_username">
-  <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=red" />
 </a>
 
 </div>
