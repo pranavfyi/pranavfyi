@@ -3,25 +3,27 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2933&height=180&section=header&text=Hey%20Everyone,%20I'm%20Pranav!&fontSize=42&fontColor=ffffff" />
 
 🎓 Integrated MTech student at **VIT Bhopal**, specializing in **Artificial Intelligence**  
-Aspiring Software Developer · Learning by building, not by flexing
+Aspiring Software Developer · Building strong fundamentals through practice
+
 
 <br/>
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/pranavfyi">
+  <img src="https://img.shields.io/badge/GitHub-pranavfyi-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:your_email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/in/pranav-pimpalkar-6b3450373">
+  <img src="https://img.shields.io/badge/LinkedIn-Pranav_Pimpalkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/your_username/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/pranav4915">
+  <img src="https://img.shields.io/badge/LeetCode-pranav4915-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="https://www.kaggle.com/your_username">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<a href="https://codeforces.com/profile/Pranavfyi">
+  <img src="https://img.shields.io/badge/Codeforces-Pranavfyi-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
+
 
 </a>
 
@@ -30,9 +32,9 @@ Aspiring Software Developer · Learning by building, not by flexing
 ---
 
 ## 🧠 About Me
-- Focused on building strong **fundamentals**
-- Interested in **backend systems, problem solving, and AI foundations**
-- Believer in slow, consistent progress over fake productivity
+- Focused on building strong fundamentals in software engineering
+- Interested in backend systems, problem solving, and AI foundations
+- Continuing to learn and improve over time
 
 🈴 Exploring the Japanese language and culture — **一歩一歩**
 
