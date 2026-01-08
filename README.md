@@ -97,11 +97,12 @@ Aspiring Software Developer · Building strong fundamentals through practice
 
 <img src="https://github-readme-stats.vercel.app/api?username=pranavfyi&show_icons=true&hide_border=true&theme=github_dark" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavfyi&layout=compact&hide_border=true&theme=github_dark" />
 
 </div>
+
 
 ![Pranav's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=pranavfyi&hide=B&theme=default)
 
