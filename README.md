@@ -9,21 +9,13 @@ Aspiring Software Developer · Building strong fundamentals through practice
 <br/>
 
 <p align="center">
-  <a href="https://github.com/pranavfyi" style="margin-right:12px;">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 
   <a href="https://www.linkedin.com/in/pranav-pimpalkar-6b3450373" style="margin-right:12px;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://leetcode.com/pranav4915" style="margin-right:12px;">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
-  <a href="https://codeforces.com/profile/Pranavfyi">
-    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
 </p>
 
 
