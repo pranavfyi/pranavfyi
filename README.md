@@ -28,16 +28,10 @@ Aspiring Software Developer · Building strong fundamentals through practice
 - Interested in backend systems, problem solving, and AI foundations
 - Continuing to learn and improve over time
 
-🈴 Exploring the Japanese language and culture — **一歩一歩**
+
 
 ---
 
-## 🎯 Currently Learning (2026)
-- C++ 
-- Data Structures & Algorithms 
-- Problem solving on LeetCode
-- Backend fundamentals (Node.js, Express)
-- Databases (MongoDB, SQL basics)
   
 ---
 
@@ -96,7 +90,7 @@ Aspiring Software Developer · Building strong fundamentals through practice
 </div>
 
 
-![Pranav's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=pranavfyi&hide=B&theme=default)
+
 
 ## 📬 Reach Me
 - GitHub: https://github.com/pranavfyi  
